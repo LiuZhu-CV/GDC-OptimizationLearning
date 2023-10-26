@@ -1,5 +1,5 @@
 # GDC-OptimizationLearning
-  Optimization-Inspired Learning with  Architecture Augmentations and Control Mechanisms  for Low-Level Vision (TIP)
+  Optimization-Inspired Learning with  Architecture Augmentations and Control Mechanisms  for Low-Level Vision (IEEE TIP)
 
 ## Abstract
 
