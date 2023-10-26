@@ -8,7 +8,7 @@ To mitigate the above issues, this paper proposes a unified optimization-inspire
 We design two control mechanisms that provide the non-trivial theoretical guarantees for both fully- and partially-defined optimization formulations. Under the supporting of  theoretical guarantees, we can introduce diverse architecture augmentation strategies such as normalization and search  to ensure stable propagation with convergence and seamlessly integrate the suitable modules into the propagation respectively. Extensive experiments across varied low-level vision tasks validate the efficacy and adaptability of GDC.
   
 # Citation
-
+We thanks for the contributions of Yi He (@Heyi007), Dongxiang Shi (@sdxzy) and Dr. Shichao Cheng.
 ```
 @article{liu2020learning,
   title={Learning optimization-inspired image propagation with control mechanisms and architecture augmentations for low-level vision},
