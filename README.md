@@ -25,7 +25,7 @@ If you have any questions, please send a email to "liuzhu_ssdut@foxmail.com"
 #### Non-blind Deblur
 <img src='pics/nondeblur.png' width=840> 
 
-#### Image Deraining
+#### Image Deblur
 <img src='pics/deblur.png' width=840> 
 
 #### Image Deraining
