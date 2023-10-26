@@ -12,9 +12,9 @@ We thanks for the contributions of Yi He (@Heyi007), Dongxiang Shi (@sdxzy) and 
 ```
 @article{liu2020learning,
   title={Learning optimization-inspired image propagation with control mechanisms and architecture augmentations for low-level vision},
-  author={Liu, Risheng and Liu, Zhu and Mu, Pan and Lin, Zhouchen and Fan, Xin and Luo, Zhongxuan},
-  journal={arXiv preprint arXiv:2012.05435},
-  year={2020}
+  author={Liu, Risheng and Liu, Zhu and Mu, Pan  and Fan, Xin and Luo, Zhongxuan},
+  journal={IEEE TIP},
+  year={2023}
 }
 ```
   
